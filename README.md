@@ -2,7 +2,7 @@
 
 > **Redis** — это высокопроизводительная in-memory база данных, часто используемая как кэш, брокер сообщений или хранилище сессий.  
 > Данный Docker-образ позволяет быстро развернуть Redis-сервер с гибкой настройкой через переменные окружения и аргументы командной строки.
-
+![Логотип Redis]([https://www.markdownguide.org/assets/images/markdown-mark-white.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Falexkosarev.name%2F2024%2F10%2F22%2Fredis-intro%2F&psig=AOvVaw3lqJxar0PpZ-niYvdljrmI&ust=1761456146111000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjS7dvHvpADFQAAAAAdAAAAABAL))
 
 ---
 
